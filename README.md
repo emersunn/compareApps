@@ -1,6 +1,6 @@
 # MacOS App Comparison Script
 
-This Python script compares the installed applications on two MacOS computers. It generates a list of installed applications for the old and new computers and compares them to identify added and removed apps.
+This Python script compares the installed applications on two MacOS computers. It generates a list of installed applications for the old and new computers and compares them to identify added and removed apps. It also identifies which apps were installed through the App Store.
 
 ## Usage
 
